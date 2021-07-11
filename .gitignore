@@ -1,0 +1,10 @@
+.openzeppelin/
+abi/
+artifacts/
+cache/
+node_modules/
+secrets.json
+.rgignore
+.archive
+test
+.DS_Store
